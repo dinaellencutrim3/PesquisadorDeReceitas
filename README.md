@@ -1,7 +1,7 @@
 # 🍽️ Recipe Finder
 
 🔗 **Acesse o projeto online:**  
-👉 
+👉 https://dinaellencutrim3.github.io/PesquisadorDeReceitas/
 
 Projeto de buscador de receitas desenvolvido com **HTML, CSS e JavaScript**, consumindo a API pública **TheMealDB**.
 
