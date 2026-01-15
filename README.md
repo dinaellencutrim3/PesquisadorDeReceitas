@@ -1,5 +1,8 @@
 # 🍽️ Recipe Finder
 
+🔗 **Acesse o projeto online:**  
+👉 
+
 Projeto de buscador de receitas desenvolvido com **HTML, CSS e JavaScript**, consumindo a API pública **TheMealDB**.
 
 ## 🚀 Funcionalidades
